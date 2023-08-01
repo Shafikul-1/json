@@ -1,0 +1,40 @@
+{
+    "posts": [
+      {
+        "id": 1, 
+        "title": "check", 
+        "author": "coding" 
+    },
+    {
+        "id": 2, 
+        "name": "Shafikul",
+        "village": "Bokapur",
+        "age": "23"
+    },
+    {
+        "id": 3, 
+        "name": "Sifat",
+        "village": "bokapur",
+        "age": "10"
+    },
+    {
+        "id": 4, 
+        "name": "Hanif",
+        "village": "natshal",
+        "age": "45"
+    },
+    {
+        "id": 4, 
+        "name": "rifat",
+        "village": "chokcad",
+        "age": "21"
+    }
+    
+    ],
+    "comments": [
+      { "id": 1, 
+      "body": "some comment", 
+      "postId": 1 
+    }
+    ]
+}
