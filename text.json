@@ -29,12 +29,5 @@
         "village": "chokcad",
         "age": "21"
     }
-    
-    ],
-    "comments": [
-      { "id": 1, 
-      "body": "some comment", 
-      "postId": 1 
-    }
     ]
 }
